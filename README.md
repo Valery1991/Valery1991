@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **reactJS, Sass, Figma**
+- 💬 Ask me about **ReactJS, Sass, Figma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
