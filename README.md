@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valery</h1>
 <h3 align="center">A senior product designer and senior developer, currently living in Spain</h3>
 
-<div align="center">
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Valery1991&theme=radical&hide_border=true&border_radius=8&background=45%2C00DFFF4D%2CEB54544D)](https://git.io/streak-stats)
- </div>
+ </p>
 
 - 🔭 I’m currently working on [Knowy](https://www.knowy.ai/)
 
