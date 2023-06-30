@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Valery</h1>
-<h3>A senior product designer and senior developer, currently living in Spain</h3>
+<h3>A senior product designer and senior engineer, currently living in Spain</h3>
+
+<p>There's not much to be seen here yet due to heavy NDA projects, but stay tuned!</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Valery1991&theme=radical&hide_border=true&border_radius=8&background=45%2C00DFFF4D%2CEB54544D)](https://git.io/streak-stats)
 
