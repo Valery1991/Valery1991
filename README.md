@@ -3,8 +3,6 @@
 
 <p>There's not a lot of public stuff to be seen here due to heavy NDA projects.</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Valery1991&theme=radical&hide_border=true&border_radius=8&background=45%2C00DFFF4D%2CEB54544D)](https://git.io/streak-stats)
-
 - 🔭 I’m currently working on [Knowy](https://www.knowy.ai/), and worked on [4me](https://www.4me.com/) and [Stedin](https://www.stedin.net/)
 
 - 🌱 I’m currently learning **Python**
