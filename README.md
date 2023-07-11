@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Valery</h1>
-<h3>A senior product designer and senior engineer, currently living in Spain</h3>
+<h3>A senior frontend/design engineer, currently living in Spain</h3>
 
 <p>There's not a lot of public stuff to be seen here due to heavy NDA projects.</p>
 
