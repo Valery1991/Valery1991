@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for a new opportunity, and have worked on Knowy, [4me](https://www.4me.com/) and [Stedin](https://www.stedin.net/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **Vue**
 
 - 💬 Ask me about **ReactJS, TypeScript, CSS, UX, accessibility, Figma**
 
