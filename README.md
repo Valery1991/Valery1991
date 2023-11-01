@@ -11,7 +11,7 @@
 
 - 🎨 Feel free to check out some [design work](https://www.figma.com/file/aUWPMxlM7Aiv0QTIFKkXbf/Concepts?type=design&node-id=102%3A22811&mode=design&t=ooGTlU2XYgqCdkUE-1)
   
-- 🎭 I like to draw, play games, swim, read, experiment with photography, travel, and go for long walks with my dogs. I'm keen to learn more about astronomy and metaphysics.
+- 🎭 I like to draw, play games, swim, read, experiment with photography, travel, skateboard, and go for long walks with my dogs. I'm keen to learn more about astronomy and metaphysics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
