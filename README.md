@@ -3,7 +3,7 @@
 
 <p>There's not a lot of public stuff to be seen here due to heavy NDA projects.</p>
 
-- 🔭 I have worked on Knowy, [4me](https://www.4me.com/) and [Stedin](https://www.stedin.net/)
+- 🔭 I am currently working at [TwentyIdeas](https://twentyideas.com/), and have previously worked at [Knowy](https://knowy.ai/), [4me](https://www.4me.com/) and [Stedin](https://www.stedin.net/)
 
 - 🌱 I’m currently learning **Python**
 
