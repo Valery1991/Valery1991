@@ -3,9 +3,9 @@
 
 <p>There's not a lot of public stuff to be seen here due to heavy NDA projects.</p>
 
-- 🔭 I am currently working at [TwentyIdeas](https://twentyideas.com/)
+- 🔭 I am currently working as a Data Engineer at [redacted]
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently enhancing my skills in **Rust**, **Redis**, **PostgreSQL**, **Grafana**, and **Python**.
 
 - 💬 Ask me about **React, TypeScript, CSS, UX, accessibility, Figma, Node.js, Docker**
   
