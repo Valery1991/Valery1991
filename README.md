@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Val</h1>
-<h3>An engineer and designer, currently living in Spain</h3>
-
-<p>There's not a lot of public stuff to be seen here due to heavy NDA projects.</p>
+<h3>An engineer and designer, currently living in UK</h3>
 
 - 🔭 I am currently working as a Data Engineer at **_[REDACTED]_**
 
