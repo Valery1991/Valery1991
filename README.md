@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Val</h1>
 <h3>An engineer and designer, currently living in UK</h3>
 
-- 🔭 I am currently working as a Data Engineer at **_[REDACTED]_**
+- 🔭 I am currently working as a Data Engineer & Frontend Engineer at **_[REDACTED]_**
 
 - 🌱 I’m currently enhancing my skills in **Rust**, **Redis**, **PostgreSQL**, **Grafana**, and **Python**.
 
